@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-controlescolarvue-dev-131710-authRole",
+      "UnauthRoleArn": "arn:aws:iam::274940837738:role/amplify-controlescolarvue-dev-131710-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::274940837738:role/amplify-controlescolarvue-dev-131710-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-controlescolarvue-dev-131710-deployment",
+      "UnauthRoleName": "amplify-controlescolarvue-dev-131710-unauthRole",
+      "StackName": "amplify-controlescolarvue-dev-131710",
+      "StackId": "arn:aws:cloudformation:us-east-2:274940837738:stack/amplify-controlescolarvue-dev-131710/54685c20-0412-11eb-b2a1-021eb120153e",
+      "AmplifyAppId": "dgbsvydw1csdl"
+    },
+    "categories": {
+      "auth": {
+        "controlescolarvue17d89115": {}
+      }
+    }
+  }
+}

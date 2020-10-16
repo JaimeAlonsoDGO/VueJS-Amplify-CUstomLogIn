@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "controlescolarvue17d89115": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
