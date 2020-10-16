@@ -1,4 +1,4 @@
-# controlescolarvue
+# VueJS | Bootstrap | AWS Amplify Cognito
 
 ## Project setup
 ```
